@@ -1,0 +1,26 @@
+c:\users\taa\documents\visual studio 2010\Projects\Oyunnn\Oyunnn\bin\Debug\Oyunnn.exe
+c:\users\taa\documents\visual studio 2010\Projects\Oyunnn\Oyunnn\bin\Debug\Oyunnn.pdb
+c:\users\taa\documents\visual studio 2010\Projects\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.Form1.resources
+c:\users\taa\documents\visual studio 2010\Projects\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.Properties.Resources.resources
+c:\users\taa\documents\visual studio 2010\Projects\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.csproj.GenerateResource.Cache
+c:\users\taa\documents\visual studio 2010\Projects\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.exe
+c:\users\taa\documents\visual studio 2010\Projects\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.pdb
+C:\Users\taa\Documents\Visual Studio 2010\Projects\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.csprojResolveAssemblyReference.cache
+C:\Users\Beşir Can\Desktop\Mayın_tarlasi_reha_studio\Oyunnn\Oyunnn\bin\Debug\Oyunnn.exe
+C:\Users\Beşir Can\Desktop\Mayın_tarlasi_reha_studio\Oyunnn\Oyunnn\bin\Debug\Oyunnn.pdb
+C:\Users\Beşir Can\Desktop\Mayın_tarlasi_reha_studio\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.csprojAssemblyReference.cache
+C:\Users\Beşir Can\Desktop\Mayın_tarlasi_reha_studio\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.Form1.resources
+C:\Users\Beşir Can\Desktop\Mayın_tarlasi_reha_studio\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.Properties.Resources.resources
+C:\Users\Beşir Can\Desktop\Mayın_tarlasi_reha_studio\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.csproj.GenerateResource.cache
+C:\Users\Beşir Can\Desktop\Mayın_tarlasi_reha_studio\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\Desktop\Mayın_tarlasi_reha_studio\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.exe
+C:\Users\Beşir Can\Desktop\Mayın_tarlasi_reha_studio\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.pdb
+C:\Users\mihya\Desktop\Mayin_Tarlasi-main\Oyunnn\Oyunnn\bin\Debug\Oyunnn.exe
+C:\Users\mihya\Desktop\Mayin_Tarlasi-main\Oyunnn\Oyunnn\bin\Debug\Oyunnn.pdb
+C:\Users\mihya\Desktop\Mayin_Tarlasi-main\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.csprojAssemblyReference.cache
+C:\Users\mihya\Desktop\Mayin_Tarlasi-main\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.Form1.resources
+C:\Users\mihya\Desktop\Mayin_Tarlasi-main\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.Properties.Resources.resources
+C:\Users\mihya\Desktop\Mayin_Tarlasi-main\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.csproj.GenerateResource.cache
+C:\Users\mihya\Desktop\Mayin_Tarlasi-main\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.csproj.CoreCompileInputs.cache
+C:\Users\mihya\Desktop\Mayin_Tarlasi-main\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.exe
+C:\Users\mihya\Desktop\Mayin_Tarlasi-main\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.pdb

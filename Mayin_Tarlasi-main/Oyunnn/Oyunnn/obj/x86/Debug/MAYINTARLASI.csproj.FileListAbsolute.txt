@@ -1,0 +1,9 @@
+C:\Users\mihya\Desktop\Mayin_Tarlasi-main\Oyunnn\Oyunnn\bin\Debug\Oyunnn.exe
+C:\Users\mihya\Desktop\Mayin_Tarlasi-main\Oyunnn\Oyunnn\bin\Debug\Oyunnn.pdb
+C:\Users\mihya\Desktop\Mayin_Tarlasi-main\Oyunnn\Oyunnn\obj\x86\Debug\MAYINTARLASI.csprojAssemblyReference.cache
+C:\Users\mihya\Desktop\Mayin_Tarlasi-main\Oyunnn\Oyunnn\obj\x86\Debug\MAYINTARLASI.Form1.resources
+C:\Users\mihya\Desktop\Mayin_Tarlasi-main\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.Properties.Resources.resources
+C:\Users\mihya\Desktop\Mayin_Tarlasi-main\Oyunnn\Oyunnn\obj\x86\Debug\MAYINTARLASI.csproj.GenerateResource.cache
+C:\Users\mihya\Desktop\Mayin_Tarlasi-main\Oyunnn\Oyunnn\obj\x86\Debug\MAYINTARLASI.csproj.CoreCompileInputs.cache
+C:\Users\mihya\Desktop\Mayin_Tarlasi-main\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.exe
+C:\Users\mihya\Desktop\Mayin_Tarlasi-main\Oyunnn\Oyunnn\obj\x86\Debug\Oyunnn.pdb
